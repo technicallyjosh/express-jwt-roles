@@ -1,0 +1,24 @@
+{
+  "name": "express-jwt-roles",
+  "version": "0.1.0",
+  "description": "ExpressJS role middleware for use with express-jwt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/technicallyjosh/express-jwt-roles.git"
+  },
+  "keywords": [
+    "express",
+    "jwt",
+    "roles"
+  ],
+  "author": "Josh Newman @technicallyjosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/technicallyjosh/express-jwt-roles/issues"
+  },
+  "homepage": "https://github.com/technicallyjosh/express-jwt-roles#readme"
+}
